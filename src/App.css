@@ -28,6 +28,13 @@
   color: #61dafb;
 }
 
+.like_btn {
+  background-color: transparent;
+  border: 0px;
+  display: flex;
+  align-items: center;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
